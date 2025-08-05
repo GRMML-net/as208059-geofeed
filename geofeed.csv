@@ -1,4 +1,7 @@
 # prefix,country_code,region_code,city,postal
 46.149.109.0/24,DE,,,
 2a10:200::/32,DE,,,
+2a10:200::/36,EU,,,
+2a10:200:14::/48,DE,DE-BW,Geislingen an der Steige,
+2a10:200:e::/48,DE,DE-BW,Geislingen an der Steige,
 2a06:a005:d28::/48,DE,DE-BW,Geislingen an der Steige,
